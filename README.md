@@ -10,7 +10,7 @@ Desktop widget music player and downloader that allows downloading music from yo
 
 ## Screenshots
 
-<img width="1919" height="1079" alt="Rebbit-Preview" src="https://github.com/user-attachments/assets/52a5662d-58cf-40eb-a0fd-a1a33796e0e2" />
+<img width="1919" height="1079" alt="Rebbit-Preview" src="https://github.com/user-attachments/assets/214cb2af-6a78-4318-9312-65fdb6a0d6ad" />
 
 ## Features
 
