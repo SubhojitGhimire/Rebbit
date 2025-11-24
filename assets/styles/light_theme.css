@@ -1,0 +1,73 @@
+QWidget {
+    font-family: "Segoe UI", "Helvetica", sans-serif;
+    color: #2E3440;
+    outline: none;
+}
+
+QWidget#ContentArea { 
+    background-color: #ECEFF4; 
+}
+QFrame#Sidebar {
+    background-color: #D8DEE9;
+    border-right: 1px solid #C4C9D1;
+}
+
+#CollapsedWidgetFrame {
+    background-color: #ECEFF4;
+    border: 1px solid #D8DEE9;
+    border-radius: 12px;
+}
+
+QLabel#SongTitle {
+    font-size: 13px;
+    font-weight: bold;
+    color: #2E3440;
+}
+
+QLabel#ArtistName {
+    font-size: 11px;
+    color: #5E81AC;
+}
+
+QPushButton {
+    background-color: transparent;
+    border: none;
+    border-radius: 4px;
+    color: #2E3440;
+}
+
+QPushButton:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 16px;
+}
+
+QPushButton:pressed {
+    background-color: rgba(94, 129, 172, 0.2);
+}
+
+QMenu {
+    background-color: #E5E9F0;
+    border: 1px solid #D8DEE9;
+    border-radius: 6px;
+    padding: 4px;
+    color: #2E3440;
+}
+
+QMenu::item {
+    padding: 6px 24px;
+    border-radius: 4px;
+}
+
+QMenu::item:selected {
+    background-color: #88C0D0;
+    color: #ECEFF4;
+}
+
+QLineEdit {
+    background-color: #FFFFFF;
+    color: #2E3440;
+    border: 1px solid #D8DEE9;
+    border-radius: 4px;
+    padding: 5px;
+}
+
